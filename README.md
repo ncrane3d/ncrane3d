@@ -1,4 +1,6 @@
-### Welcome! Thanks for checking out my page, currently I'm working on an accessibility app prototype for nonverbal people, I'll be posting my code and updates on my work soon! :)
+### Welcome! Thanks for checking out my page :)
+## I am currently looking for software engineering internships for the Summer of 2024. Feel free to contact me on linked in, or at nathan.crane@colostate.edu
+## As well as that, feel free to investigate [Communicait](https://github.com/ncrane3d/CommuniCait-App), an app I developed and led a team for, as a part of a project management course at CSU.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nathan-crane-623245290/">
@@ -6,7 +8,7 @@
   </a>
 </div>
 
-Here's a two truths and a lie for you, while you wait for the next update:
+For your time, here's a two truths and a lie! 
 1. I can name all 196 countries
 2. I am a twin
 3. I've broken 5 bones in my life
