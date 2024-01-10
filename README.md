@@ -8,10 +8,5 @@
   </a>
 </div>
 
-For your time, here's a two truths and a lie! 
-1. I can name all 196 countries
-2. I am a twin
-3. I've broken 5 bones in my life
-
 
 
