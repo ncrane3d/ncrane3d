@@ -1,6 +1,6 @@
 ### Welcome! Thanks for checking out my page, currently I'm working on an accessibility app prototype for nonverbal people, I'll be posting my code and updates on my work soon! :)
 
-<div id="badges">
+<div id="badges" align="center>
   <a href="your-linkedin-UR](https://www.linkedin.com/in/nathan-crane-623245290/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
