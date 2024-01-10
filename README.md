@@ -1,22 +1,15 @@
 ### Welcome! Thanks for checking out my page, currently I'm working on an accessibility app prototype for nonverbal people, I'll be posting my code and updates on my work soon! :)
 
+<div id="badges">
+  <a href="your-linkedin-UR](https://www.linkedin.com/in/nathan-crane-623245290/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 Here's a two truths and a lie for you, while you wait for the next update:
 1. I can name all 196 countries
 2. I am a twin
 3. I've broken 5 bones in my life
 
 
-<!--
-**ncrane3d/ncrane3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
